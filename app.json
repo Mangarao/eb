@@ -1,0 +1,18 @@
+{
+  "name": "EmbroBuddy",
+  "displayName": "EmbroBuddy",
+  "expo": {
+    "name": "EmbroBuddy",
+    "slug": "embrobuddy",
+    "version": "1.0.18",
+    "android": {
+      "package": "com.aarohisewing.embrobuddy",
+      "versionCode": 19
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da08cb9d-ee22-468f-a1a7-f40983c8311f"
+      }
+    }
+  }
+}
